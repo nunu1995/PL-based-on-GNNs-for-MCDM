@@ -1,6 +1,6 @@
 # Preference learning based on adaptive graph neural networks for multi-criteria decision support
 
- This is the PyTorch implementation by <a href='https://github.com/nunu1995'>@Zhenhu Meng</a> for preference learning model:
+ This is the implementation by <a href='https://github.com/nunu1995'>@Zhenhu Meng</a> for preference learning model, and the code needs to be further improved in the future:
 
  >**Preference learning based on adaptive graph neural networks for multi-criteria decision support**  
  >Zhenhua Meng, Rongheng Lin*, Budan Wu
