@@ -8,7 +8,7 @@
 
 \* denotes corresponding author
 <p align="center">
-<img src="PL_GNNs_MCDM.tif" alt="PLGNNsMCDM"/>
+<img src="PL_GNNs_MCDM.tif" alt="PLGNNsMCDM" width="45%"/>
 </p>
 
 Given the gap between **multi-criteria decision making (MCDM)** and **preference learning (PL)** and the growing complexity of decision scenarios, this paper introduces the definition of graphs to model decision issues and proposes a preference learning method based on **graph neural networks (GNNs)** for multi-criteria decision support. The proposed method, grounded in the TOPSIS framework, incorporates an adaptive GNN model and a weight determination model. The core idea of the GNN model is to update embeddings from the alternative (node)'s criterion features and category features, and use the attention mechanism to adaptively learn their respective importance. The weight determination model contains a weight neural network module for determining objective criteria weights and a game theory-based combination weighting module for computing criteria combination weights.
