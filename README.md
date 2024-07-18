@@ -2,8 +2,8 @@
 
  This is the PyTorch implementation by <a href='https://github.com/nunu1995'>@Zhenhu Meng</a> for preference learning model:
 
- >*Preference learning based on adaptive graph neural networks for multi-criteria decision support**  
- >Zhenhua Meng, Rongheng Lin*, Budan Wu\
+ >**Preference learning based on adaptive graph neural networks for multi-criteria decision support**  
+ >Zhenhua Meng, Rongheng Lin*, Budan Wu
 
 
 \* denotes corresponding author
@@ -23,3 +23,6 @@ Given the gap between **multi-criteria decision making (MCDM)** and **preference
 The original data of our dataset can be found from following links (thanks to their work):
 - DBS, CPU, BCC, MPG, MMG, CEV: http://archive.ics.uci.edu/ml/.
 - ESL, ERA, LEV: http://www.cs.waikato.ac.nz/ml/weka/datasets.html.
+
+### Contact
+**Thanks for your interest in our work! For mor information, contact via: zhmeng@bupt.edu.cn**
