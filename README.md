@@ -4,6 +4,7 @@
 
  >**Preference learning based on adaptive graph neural networks for multi-criteria decision support**  
  >Zhenhua Meng, Rongheng Lin*, Budan Wu
+ >*Applied Soft Computing*
 
 
 \* denotes corresponding author
