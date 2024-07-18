@@ -3,7 +3,7 @@
  This is the implementation by <a href='https://github.com/nunu1995'>@Zhenhu Meng</a> for the proposed model, and the code needs to be further improved in the future:
 
  >**Preference learning based on adaptive graph neural networks for multi-criteria decision support**  
- >Zhenhua Meng, Rongheng Lin*, Budan Wu
+ >Zhenhua Meng, Rongheng Lin*, Budan Wu\
  >*Applied Soft Computing*
 
 
