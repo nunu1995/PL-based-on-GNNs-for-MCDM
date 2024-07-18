@@ -3,7 +3,7 @@
  This is the PyTorch implementation by <a href='https://github.com/nunu1995'>@Zhenhu Meng</a> for preference learning model:
 
  >*Preference learning based on adaptive graph neural networks for multi-criteria decision support**  
- >Zhenhua Meng, Rongheng Lin*, Budan Wu
+ >Zhenhua Meng, Rongheng Lin*, Budan Wu\
 
 
 \* denotes corresponding author
